@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Calm Writer
 description: Finding the right words
+
+theme: jekyll-theme-cayman
