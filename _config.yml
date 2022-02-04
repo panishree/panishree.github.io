@@ -4,4 +4,4 @@ plugins:
 title: Calm Writer
 description: Finding the right words
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
